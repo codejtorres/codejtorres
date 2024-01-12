@@ -1,5 +1,4 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/codejtorres">Programmer</a>
-
+<h1>Hi, I'm Joseph! <br/>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
