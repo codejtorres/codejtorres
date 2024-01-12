@@ -23,7 +23,7 @@
 
 <h2>📺 Medium Articles:</h2>
 
-- [devvlog -  Web App "Round By Round"](https://www.medium.com/example)
+- [dev-vlog: Web App "Round By Round"](https://www.medium.com/example)
 
 <h2> 🤳 Connect with me:</h2>
 
